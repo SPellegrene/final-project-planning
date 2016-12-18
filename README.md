@@ -16,19 +16,31 @@ Quacker is not the only twitter filter out on the market today. There are severa
 
 Quacker will be a fun, somewhat passive aggressive application, with bright, clean color schemes and a logo resembling a duck.
 
+###Focus###
+I plan to stay organized by dividing my day into two parts. One part will be devoted to design, the second half will be devoted to functionality. Once the design is finished, I will obviously dedicate all efforts to the functionality.
+
+###Fears###
+My biggest fear is ensuring proper compatibility with Twitters API. Also, functionality is a weakness of mine, therefore I am going in with a simplistic mindset, as to ensure I do not bite off more than I can chew.
+
 - __Priority__: Tweet filter, Reply Abilities
 - __Impact__: Simple/Clean Interface, recent tweets are filtered quickly, low lag times.
 - __Mystery__: Profile creation, log-in validation, profile photo.
 
 *The Roamin App*:
 
-83 percent of Americans identify as Christian. There are two things Christians do a lot of, they go to church and they travel, as do all Americans. The Roamin app are for all Christians roaming about the country and still desire to attend mass or service on Sundays. Many times when traveling on business I found myself struggling to find the nearest church. Apps I have found with this goal have been very outdated and posses a poor user-experience.You know what they say,  "When in Roam (Rome), find a church."
+83 percent of Americans identify as Christian. There are two things Christians do a lot of, they go to church and they travel, as do all Americans. The Roamin app is for all Christians roaming about the country and still desire to attend mass or service on Sundays. Many times when traveling on business I found myself struggling to find the nearest church. Apps I have found with this goal have been very outdated and posses a poor user-experience. You know what they say,  "When in Roam (Rome), find a church."
 
 In the future, this app could be used for all religions and faiths, for the sake of time, I will be focusing on the christian religion.
 
 As a user, you will be allowed to do one thing on this application. Enter your zip code and the rest is done for you. There is no profile/account set-up. You simply open the app, enter location and a list of surrounding churches will appear. Select a church and you will see a dropdown of service/event times. An address will also be available with a google map plug-in to aid in your direction needs. A phone number will also be provided.
 
 In the future, I think it would add benefit to the user to have an uber link for those who do not have a car. It would also be appropiate to one day have Roamin sponsor christian events or concerts with profits going towards building new churches across the globe.
+
+###Focus###
+I plan to stay organized by dividing my day into two parts. One part will be devoted to design, the second half will be devoted to functionality. Once the design is finished, I will obviously dedicate all efforts to the functionality.
+
+###Fears###
+My biggest fear is finding an up-to-date API that holds church data. Also, ensuring I am not showing an inaccurate list of data to my users.
 
 - __Priority__: Church info database, text input field for zip code, phone number and address, clean/modern design  
 - __Impact__: Google Maps plug-in, geolocation capabilities without the user entering anything in manually
