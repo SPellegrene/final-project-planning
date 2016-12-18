@@ -1,5 +1,5 @@
 #Final Project Ideas
-1. Quacker:
+*Quacker*:
 
 Quacker is a twitter filter application that allows social media managers and customer service representatives to
 quickly search twitter for negative tweets pertaining to their brand. According to a 2013 survey done by Dimensional Research Corp, 90 percent of consumers who read online reviews claim that a positive review influenced their purchasing decision.
@@ -16,11 +16,11 @@ Quacker is not the only twitter filter out on the market today. There are severa
 
 Quacker will be a fun, somewhat passive aggressive application, with bright, clean color schemes and a logo resembling a duck.
 
-Priority: Tweet filter, Reply Abilities
-Impact: Simple/Clean Interface, recent tweets are filtered quickly, low lag times.
-Mystery: Profile creation, log-in validation, profile photo.
+- __Priority__: Tweet filter, Reply Abilities
+- __Impact__: Simple/Clean Interface, recent tweets are filtered quickly, low lag times.
+- __Mystery__: Profile creation, log-in validation, profile photo.
 
-2. The Roamin App:
+*The Roamin App*:
 
 83 percent of Americans identify as Christian. There are two things Christians do a lot of, they go to church and they travel, as do all Americans. The Roamin app are for all Christians roaming about the country and still desire to attend mass or service on Sundays. Many times when traveling on business I found myself struggling to find the nearest church. Apps I have found with this goal have been very outdated and posses a poor user-experience.You know what they say,  "When in Roam (Rome), find a church."
 
@@ -30,6 +30,6 @@ As a user, you will be allowed to do one thing on this application. Enter your z
 
 In the future, I think it would add benefit to the user to have an uber link for those who do not have a car. It would also be appropiate to one day have Roamin sponsor christian events or concerts with profits going towards building new churches across the globe.
 
-Priority: Church info database, text input field for zip code, phone number and address, clean/modern design  
-Impact: Google Maps plug-in, geolocation capabilities without the user entering anything in manually
-Mystery: finding a database for churches in the US, linking to uber. 
+- __Priority__: Church info database, text input field for zip code, phone number and address, clean/modern design  
+- __Impact__: Google Maps plug-in, geolocation capabilities without the user entering anything in manually
+- __Mystery__: finding a database for churches in the US, linking to uber.
